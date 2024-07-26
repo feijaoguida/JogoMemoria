@@ -1,5 +1,7 @@
 import MemoryGAme from "@/components/MemoryGame";
 
+// Building a Memory Game in Next.js: A step by step guide
+// https://www.youtube.com/watch?v=2FpfLOde5kg
 
 export default function Home() {
   return (
